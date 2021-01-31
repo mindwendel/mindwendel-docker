@@ -1,0 +1,6 @@
+# Extending gitignore to include also all .env files, e.g. .env.development.local, .env.test, etc.
+.env
+
+.docker
+.vscode
+.DS_Store
